@@ -1,3 +1,3 @@
-# smart_parking
+smart_parking
 <br>
-# with YOLO
+with YOLO
